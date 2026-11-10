@@ -1,0 +1,24 @@
+# Web framework
+fastapi
+uvicorn[standard]
+
+# Database
+sqlalchemy
+alembic
+
+# Data validation
+pydantic
+pydantic-settings
+python-dotenv
+
+# AI — Anthropic Claude only
+anthropic
+
+# LaTeX template rendering
+jinja2
+
+# PDF page count checking (after LaTeX compilation)
+pymupdf
+
+# Multipart form support
+python-multipart
